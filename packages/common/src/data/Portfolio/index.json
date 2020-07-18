@@ -1,3 +1,4 @@
+
 {
   "SOCIAL_PROFILES": [
     {
@@ -11,309 +12,121 @@
     {
       "icon": "flaticon-instagram",
       "url": "#"
-    },
-    {
-      "icon": "flaticon-dribble-logo",
-      "url": "#"
     }
   ],
   "MENU_ITEMS": [
     {
-      "label": "ME",
+      "label": "MOI",
       "path": "#banner_section",
       "offset": "0"
     },
     {
-      "label": "PROJECT",
+      "label": "PROJETS",
       "path": "#portfolio_section",
       "offset": "0"
     },
     {
-      "label": "AWARDS",
+      "label": "SKILLS",
       "path": "#awards_section",
       "offset": "0"
     },
     {
-      "label": "WHY ME?",
+      "label": "POURQUOI MOI?",
       "path": "#process_section",
       "offset": "0"
     }
   ],
   "AWARDS": [
     {
-      "awardLogo": "../../assets/image/portfolio/award-1.png",
-      "awardName": "Free Software Advice",
-      "awardDetails": "Top Rated App Development Companies USA",
-      "awardeeLogo": "../../assets/image/portfolio/awardee-1.png",
-      "awardeeName": "Awardee",
-      "date": "The Jury 2018"
+      "awardLogo": "../../assets/image/portfolio/react.png",
+      "awardName": "React Js",
+      "awardDetails": "Librairie front end Javascript pour faciliter la création d' interfaces utilisateurs interactives",
+      "awardeeLogo": "../../assets/image/portfolio/expe.jpg",
+      "awardeeName": "Expérience",
+      "date": "1 an"
     },
     {
-      "awardLogo": "../../assets/image/portfolio/award-2.png",
-      "awardName": "Free Software Advice",
-      "awardDetails": "Top Rated App Development Companies USA",
-      "awardeeLogo": "../../assets/image/portfolio/awardee-2.png",
-      "awardeeName": "Awardee",
-      "date": "The Jury 2018"
+      "awardLogo": "../../assets/image/portfolio/HCJ.png",
+      "awardName": "Javascript ES6/ES7, CCS3, Html5",
+      "awardDetails": "Javascript et ses concepts récents (destructuration, classes, fonction map, fonction flêchées), utilisations des flexbox et grid (CSS3) ainsi  que Html 5",
+      "awardeeLogo": "../../assets/image/portfolio/expe.jpg",
+      "awardeeName": "Expérience",
+      "date": "1 an"
     },
     {
-      "awardLogo": "../../assets/image/portfolio/award-3.png",
-      "awardName": "Free Software Advice",
-      "awardDetails": "Top Rated App Development Companies USA",
-      "awardeeLogo": "../../assets/image/portfolio/awardee-3.png",
-      "awardeeName": "Awardee",
-      "date": "The Jury 2018"
+      "awardLogo": "../../assets/image/portfolio/redux.png",
+      "awardName": "Redux, Redux Saga",
+      "awardDetails": "Gestionnaire de states, faciliter la séparation des tâches et la gestion des appels asynchrones pour récupérer les datas (fetch API)",
+      "awardeeLogo": "../../assets/image/portfolio/expe.jpg",
+      "awardeeName": "Expérience",
+      "date": "1 an"
     },
     {
-      "awardLogo": "../../assets/image/portfolio/award-4.png",
-      "awardName": "Free Software Advice",
-      "awardDetails": "Top Rated App Development Companies USA",
-      "awardeeLogo": "../../assets/image/portfolio/awardee-4.png",
-      "awardeeName": "Awardee",
-      "date": "The Jury 2018"
+      "awardLogo": "../../assets/image/portfolio/ant.png",
+      "awardName": "AntDesign, Material Ui, Bootstrap",
+      "awardDetails": "Utilisation des meilleurs librairies à composants pour un développement rapide et professionnel ",
+      "awardeeLogo": "../../assets/image/portfolio/expe.jpg",
+      "awardeeName": "Expérience",
+      "date": "1 an"
+    }, 
+    {
+      "awardLogo": "../../assets/image/portfolio/firebase.png",
+      "awardName": "Firebase, Prisma, Cloudinary, AWS3",
+      "awardDetails": "Gestion du back via serverless avec la notion des fonctions lambdas",
+      "awardeeLogo": "../../assets/image/portfolio/expe.jpg",
+      "awardeeName": "Expérience",
+      "date": "6 mois"
     }
   ],
   "PORTFOLIO_SHOWCASE": [
     {
-      "title": "DESIGN",
+      "title": "PROJETS",
       "portfolioItem": [
         {
-          "title": "Canada Media Site",
-          "description": "An effective and immersive user experience is what catches the attention and spreads a clear message. That's why we attach great importance to the fact that ergonomics serves the design, and that this design is innovative and neat.",
-          "image": "../../assets/image/portfolio/portfolio-1.jpg",
-          "link": "#",
-          "featuredIn": "AWWWARDS",
+          "title": "Festeam",
+          "description": "Découvrir les centres d'intérêts de vos proches, sortez de votre zone de confort sans désaccords.",
+          "image": "../../assets/image/portfolio/festeam.png",
+          "link": "http://www.festeam.io",
+          "featuredIn": "Le Wagon",
           "featuredLink": "#",
-          "view": "4.5K",
-          "love": "1.5K",
-          "feedback": "1.2K",
+          "view": "2",
+          "love": "2",
+          "feedback": "",
           "buildWith": [
             {
-              "content": "React JS"
+              "content": "Javascript ES6"
             },
             {
-              "content": "Next JS"
+              "content": "Ruby / Ruby on Rails"
             },
             {
-              "content": "Styled Component"
+              "content": "Html5 / CSS3 / Bootstrap"
             }
           ]
         },
         {
-          "title": "RedQ, Inc. mobile app",
-          "description": "An effective and immersive user experience is what catches the attention and spreads a clear message. That's why we attach great importance to the fact that ergonomics serves the design, and that this design is innovative and neat.",
-          "image": "../../assets/image/portfolio/portfolio-2.jpg",
-          "link": "#",
-          "featuredIn": "AppStore",
+          "title": "Working On the Globe",
+          "description": "Travailler à l'autre bout du monde et être digital nomade, qu'est ce que c'est exactement... Certaines peronnes y ont répondus. ",
+          "image": "../../assets/image/portfolio/wog.png",
+          "link": "http://www.wog.mikecodeur.com",
+          "featuredIn": "Bali ",
           "featuredLink": "#",
-          "view": "8.5K",
-          "love": "5.5K",
-          "feedback": "3.2K",
-          "buildWith": [
+          "view": "3",
+          "love": "1",
+          "feedback": "",
+          "buildWith": 
+          [
             {
-              "content": "React Native"
+              "content": "React Js"
             },
             {
-              "content": "Firebase"
+              "content": "Prisma, AWS3"
             },
             {
-              "content": "Styled Component"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "DEVELOPMENT",
-      "portfolioItem": [
-        {
-          "title": "Canada Media Site",
-          "description": "An effective and immersive user experience is what catches the attention and spreads a clear message. That's why we attach great importance to the fact that ergonomics serves the design, and that this design is innovative and neat.",
-          "image": "../../assets/image/portfolio/portfolio-1.jpg",
-          "link": "#",
-          "featuredIn": "AWWWARDS",
-          "featuredLink": "#",
-          "view": "4.5K",
-          "love": "1.5K",
-          "feedback": "1.2K",
-          "buildWith": [
-            {
-              "content": "React JS"
+              "content": "Redux, Redux Saga"
             },
             {
-              "content": "Next JS"
-            },
-            {
-              "content": "Styled Component"
-            }
-          ]
-        },
-        {
-          "title": "RedQ, Inc. mobile app",
-          "description": "An effective and immersive user experience is what catches the attention and spreads a clear message. That's why we attach great importance to the fact that ergonomics serves the design, and that this design is innovative and neat.",
-          "image": "../../assets/image/portfolio/portfolio-2.jpg",
-          "link": "#",
-          "featuredIn": "AppStore",
-          "featuredLink": "#",
-          "view": "8.5K",
-          "love": "5.5K",
-          "feedback": "3.2K",
-          "buildWith": [
-            {
-              "content": "React Native"
-            },
-            {
-              "content": "Firebase"
-            },
-            {
-              "content": "Styled Component"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "ANIMATION",
-      "portfolioItem": [
-        {
-          "title": "Canada Media Site",
-          "description": "An effective and immersive user experience is what catches the attention and spreads a clear message. That's why we attach great importance to the fact that ergonomics serves the design, and that this design is innovative and neat.",
-          "image": "../../assets/image/portfolio/portfolio-1.jpg",
-          "link": "#",
-          "featuredIn": "AWWWARDS",
-          "featuredLink": "#",
-          "view": "4.5K",
-          "love": "1.5K",
-          "feedback": "1.2K",
-          "buildWith": [
-            {
-              "content": "React JS"
-            },
-            {
-              "content": "Next JS"
-            },
-            {
-              "content": "Styled Component"
-            }
-          ]
-        },
-        {
-          "title": "RedQ, Inc. mobile app",
-          "description": "An effective and immersive user experience is what catches the attention and spreads a clear message. That's why we attach great importance to the fact that ergonomics serves the design, and that this design is innovative and neat.",
-          "image": "../../assets/image/portfolio/portfolio-2.jpg",
-          "link": "#",
-          "featuredIn": "AppStore",
-          "featuredLink": "#",
-          "view": "8.5K",
-          "love": "5.5K",
-          "feedback": "3.2K",
-          "buildWith": [
-            {
-              "content": "React Native"
-            },
-            {
-              "content": "Firebase"
-            },
-            {
-              "content": "Styled Component"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "TV ADVERTISEMENT",
-      "portfolioItem": [
-        {
-          "title": "Canada Media Site",
-          "description": "An effective and immersive user experience is what catches the attention and spreads a clear message. That's why we attach great importance to the fact that ergonomics serves the design, and that this design is innovative and neat.",
-          "image": "../../assets/image/portfolio/portfolio-1.jpg",
-          "link": "#",
-          "featuredIn": "AWWWARDS",
-          "featuredLink": "#",
-          "view": "4.5K",
-          "love": "1.5K",
-          "feedback": "1.2K",
-          "buildWith": [
-            {
-              "content": "React JS"
-            },
-            {
-              "content": "Next JS"
-            },
-            {
-              "content": "Styled Component"
-            }
-          ]
-        },
-        {
-          "title": "RedQ, Inc. mobile app",
-          "description": "An effective and immersive user experience is what catches the attention and spreads a clear message. That's why we attach great importance to the fact that ergonomics serves the design, and that this design is innovative and neat.",
-          "image": "../../assets/image/portfolio/portfolio-2.jpg",
-          "link": "#",
-          "featuredIn": "AppStore",
-          "featuredLink": "#",
-          "view": "8.5K",
-          "love": "5.5K",
-          "feedback": "3.2K",
-          "buildWith": [
-            {
-              "content": "React Native"
-            },
-            {
-              "content": "Firebase"
-            },
-            {
-              "content": "Styled Component"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "MARKETING",
-      "portfolioItem": [
-        {
-          "title": "Canada Media Site",
-          "description": "An effective and immersive user experience is what catches the attention and spreads a clear message. That's why we attach great importance to the fact that ergonomics serves the design, and that this design is innovative and neat.",
-          "image": "../../assets/image/portfolio/portfolio-1.jpg",
-          "link": "#",
-          "featuredIn": "AWWWARDS",
-          "featuredLink": "#",
-          "view": "4.5K",
-          "love": "1.5K",
-          "feedback": "1.2K",
-          "buildWith": [
-            {
-              "content": "React JS"
-            },
-            {
-              "content": "Next JS"
-            },
-            {
-              "content": "Styled Component"
-            }
-          ]
-        },
-        {
-          "title": "RedQ, Inc. mobile app",
-          "description": "An effective and immersive user experience is what catches the attention and spreads a clear message. That's why we attach great importance to the fact that ergonomics serves the design, and that this design is innovative and neat.",
-          "image": "../../assets/image/portfolio/portfolio-2.jpg",
-          "link": "#",
-          "featuredIn": "AppStore",
-          "featuredLink": "#",
-          "view": "8.5K",
-          "love": "5.5K",
-          "feedback": "3.2K",
-          "buildWith": [
-            {
-              "content": "React Native"
-            },
-            {
-              "content": "Firebase"
-            },
-            {
-              "content": "Styled Component"
+              "content": "Ant Design"
             }
           ]
         }
@@ -323,87 +136,69 @@
   "PROCESS_STEPS": [
     {
       "image": "../../assets/image/portfolio/step-1.png",
-      "title": "1. Research",
-      "description": "We work with you to understand user’s stories and validate your idea with real users using lean design sprints."
+      "title": "1. Manager dans la grande distribution",
+      "description": "Pendant 9 ans mes missions principales étaient de gérer au quotidien un centre de profits (gestion, organisation, benchmark, suivi des indicateurs économiques…) tout en managant une équipe de 12 personnes dans la bienveillance (Suivi personnel (SIPP), Réglementation sociale au quotidien…)"
     },
     {
       "image": "../../assets/image/portfolio/step-2.png",
-      "title": "2. Design",
-      "description": "Expanding on the insights gained, you’ll work closely with our design team to create an elegant design"
+      "title": "2. Formation à Le Wagon Lyon",
+      "description": "Pendant 2 mois, j’ai appris différents langages et outils de programmation (Ruby et son framework Ruby on Rails, Javascript ES6, HTML 5, Css, git) et fais en équipe de 4, pendant 10 jours, mon premier projet web www.festeam.io. Je me suis ensuite plongé dans Javascript, en suivant divers tutos et formations, ainsi qu'une tracte ReactJs"
     },
     {
       "image": "../../assets/image/portfolio/step-3.png",
-      "title": "3. Build",
-      "description": "With our scrum-based agile methodology, you’ll receive iterative builds every two weeks, which gives you "
+      "title": "3. Freelance ",
+      "description": "J'ai effectué ma première mission client à Bali où j'ai travaillé en équipe avec 3 autres developpeurs sur la conception front end de son site avec comme stack (React Js, redux, ,redux saga, graphQl, Ant design). Je continue à travailler en tant que développeur front-end React Js sur ce projet génial même de France ou nous sommes en train de finaliser la V.2 ainsi que sur d'autres projets perso"
     }
   ],
   "SERVICE_LIST": [
     {
-      "title": "UI/UX Design",
+      "title": "Front end",
       "listItems": [
         {
-          "content": "Design Sprints"
+          "content": "AntDesign"
         },
         {
-          "content": "User Research"
+          "content": "MaterialUI"
         },
         {
-          "content": "Visual Design"
+          "content": "Bootstrap"
         },
         {
-          "content": "Mobile App Design"
-        },
-        {
-          "content": "Tracking & Learning"
-        },
-        {
-          "content": "Building Traction"
+          "content": "Flexbox"
         }
       ]
     },
     {
-      "title": "Web Development",
+      "title": "Développement Web front end",
       "listItems": [
+        {
+          "content": "Javascript"
+        },
         {
           "content": "ReactJS"
         },
         {
-          "content": "AngularJS"
+          "content": "Redux"
         },
         {
-          "content": "ASP.NET MVC"
-        },
-        {
-          "content": "WordPress"
-        },
-        {
-          "content": "NodeJS"
-        },
-        {
-          "content": "GO"
+          "content": "Redux Saga"
         }
       ]
     },
     {
-      "title": "Mobile App Development",
+      "title": "Développement Web back end",
       "listItems": [
-        {
-          "content": "iOS"
-        },
-        {
-          "content": "Android"
-        },
-        {
-          "content": "React Native"
-        },
-        {
-          "content": "Ionic & Apache Cordova"
-        },
         {
           "content": "NodeJS"
         },
         {
-          "content": "3D & VR"
+          "content": "Firebase"
+        },
+        {
+          "content": "Prisma"
+        },
+        {
+          "content": "Ruby / Ruby on Rails"
         }
       ]
     }
@@ -462,31 +257,31 @@
   ],
   "TESTIMONIAL": [
     {
-      "image": "../../assets/image/portfolio/client-avatar-1.jpg",
-      "review": "Another quality React-based product from RedQ Team. Manage to turn highly complex tech into simple components.",
-      "name": "Jon Doe",
-      "designation": "Founder & CEO",
-      "twitterProfile": "https://twitter.com/redqinc",
-      "organization": "@Tonquin",
-      "organizationURL": "https://redq.io/"
+      "image": "../../assets/image/portfolio/fred.jpg",
+      "review": " C'était un réel plaisir de travailler avec Evan sur un projet commun. J'aime son professionalisme et sa capacité à partager. Une personne atypique mais qui est toujours dans le partage, le travail, et la rigolade.",
+      "name": "Fréderic Pereira",
+      "designation": "Front End Developer",
+      "twitterProfile": "https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-p-216479177/",
+      "organization": "@Fréderic",
+      "organizationURL": "https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-p-216479177/"
     },
     {
-      "image": "../../assets/image/portfolio/client-avatar-2.jpg",
-      "review": "Another quality React-based product from RedQ Team. Manage to turn highly complex tech into simple components.",
-      "name": "Jeny Doe",
-      "designation": "Co-Founder & CTO",
-      "twitterProfile": "https://twitter.com/redqinc",
-      "organization": "@Tonquin",
-      "organizationURL": "https://redq.io/"
+      "image": "../../assets/image/portfolio/jon.jpg",
+      "review": "J'ai recontré Evan sur un projet. Nous avons travaillé tous les deux en tant que développeur front end. Nous avons vite créé une certaine synergie et avons achevé ensemble de nombreuses tâches complexes. C'est un sacré bosseur et une personne curieuse.",
+      "name": "Jon Hualde",
+      "designation": "Front End Developer",
+      "twitterProfile": "https://www.linkedin.com/in/jonhualde/",
+      "organization": "@Jon",
+      "organizationURL": "https://www.linkedin.com/in/jonhualde/"
     },
     {
-      "image": "../../assets/image/portfolio/client-avatar-3.jpg",
-      "review": "Another quality React-based product from RedQ Team. Manage to turn highly complex tech into simple components.",
-      "name": "Jon Doe",
-      "designation": "Co-Founder & COO",
-      "twitterProfile": "https://twitter.com/redqinc",
-      "organization": "@Tonquin",
-      "organizationURL": "https://redq.io/"
+      "image": "../../assets/image/portfolio/mike.jpg",
+      "review": "Evan était dans notre team et a vite compris les problèmes et les attentes de notre client. Sa capacité d'adaptation et sa compréhension de certains concepts difficiles font de Evan un bon élément à avoir dans sa team.",
+      "name": "Mickaël Cabanas",
+      "designation": "Full Stack Developer, Java Specialist",
+      "twitterProfile": "https://www.linkedin.com/in/micka%C3%ABl-cabanas-557630141/",
+      "organization": "@Mickaël",
+      "organizationURL": "https://www.linkedin.com/in/micka%C3%ABl-cabanas-557630141/"
     }
   ],
   "FOOTER_MENU": [
